@@ -8,3 +8,7 @@ This project was created as a practice to understand routing and component struc
 - Components for About, Projects, Contact, Nav, and Footer
 - Clean, modular CSS styling
 - Resume download option and social links
+
+## 🔗 Live Demo
+
+👉 [adhya-react-portfolio.vercel.app](https://adhya-react-portfolio.vercel.app/)

@@ -1,0 +1,19 @@
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Raleway:wght@400;600&display=swap');
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #fcf9f3;
+  color: #222;
+  margin: 0;
+}
+
+a {
+  color: #9f7c60;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5b422a;
+  text-decoration: underline;
+}

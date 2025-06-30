@@ -1,11 +1,11 @@
-import React from 'react'
+import './Footer.css';
 
 const Footer = () => {
   return (
-    <div>
-      footer
-    </div>
-  )
-}
+    <footer>
+      <p>&copy; 2025 Adhya Pratheesh. All rights reserved.</p>
+    </footer>
+  );
+};
 
-export default Footer
+export default Footer;
